@@ -25,7 +25,6 @@ Full Stack Programmer
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="./icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="./icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
