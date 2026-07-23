@@ -28,3 +28,13 @@ Full Stack Programmer
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+<p align="left">
+    <a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" />
+            <img src="./icons/socials/github.svg" width="32" height="32" />
+    </a>
+</p>
