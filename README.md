@@ -29,7 +29,7 @@
 ### Socials
 
 <p align="left">
-    <<a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
+    <a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" />
