@@ -1,12 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thrrach
-======================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thrrach
 
-Full Stack Programmer 
-------------------------------------
+## Full Stack Programmer
 
-* 🌍  I'm based in Songkhla, Thailand.
-* ✉️  You can contact me at [dolapak.kong@gmail.com](mailto:dolapak.kong@gmail.com)
-
+- 🌍  I'm based in Songkhla, Thailand.
+- ✉️  You can contact me at [dolapak.kong@gmail.com](mailto:dolapak.kong@gmail.com)
 
 ### Skills
 
@@ -29,12 +26,13 @@ Full Stack Programmer
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Socials
 
 <p align="left">
-    <a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
+    <<a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" />
             <img src="./icons/socials/github.svg" width="32" height="32" />
-    </a>
+        </picture> </a>
 </p>
