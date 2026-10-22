@@ -1,38 +1,40 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thrrach
+# Hi, I'm Thrrach
 
-## Full Stack Programmer
+**Full Stack Developer · Songkhla, Thailand**
 
-- 🌍  I'm based in Songkhla, Thailand.
-- ✉️  You can contact me at [dolapak.kong@gmail.com](mailto:dolapak.kong@gmail.com)
+I build web applications with TypeScript, React, and Next.js, with Node.js and NestJS on the backend.
+My projects range from everyday tools to access management systems.
 
-### Skills
+[Email](mailto:dolapak.kong@gmail.com) · [Projects](https://github.com/Thrrach?tab=repositories)
 
-<p align="left">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="./icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+## Main stack
+
+<p>
+  <img src="./icons/skills/typescript-colored.svg" width="30" height="30" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="./icons/skills/react-colored.svg" width="30" height="30" alt="React" title="React" />
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/nextjs-dark.svg" />
+    <img src="./icons/skills/nextjs.svg" width="30" height="30" alt="Next.js" title="Next.js" />
+  </picture>
+  &nbsp;
+  <img src="./icons/skills/nodejs-colored.svg" width="30" height="30" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="./icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="./icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" title="Docker" />
 </p>
 
-### Socials
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript |
+| Frontend | Next.js, React, Tailwind CSS, Ant Design |
+| Backend | Node.js, NestJS, REST APIs |
+| Data | PostgreSQL, Prisma, Redis |
+| Tools | Git, Docker |
 
-<p align="left">
-    <a href="https://github.com/Thrrach" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="./icons/socials/github.svg" />
-            <img src="./icons/socials/github.svg" width="32" height="32" />
-        </picture> </a>
-</p>
+## Selected projects
+
+- **[PSU Timetable Builder](https://github.com/Thrrach/study-schedule)** — A class schedule planner with image export, calendar export, and local backups. Built with Next.js, TypeScript, Tailwind CSS, and Zustand.
+- **Zero Trust Networks** — An access management project with policy evaluation and audit logging. [Backend](https://github.com/Thrrach/backend-zero-trust-networks) uses NestJS, PostgreSQL, and Prisma; [frontend](https://github.com/Thrrach/frontend-zero-trust-networks) uses Next.js and Ant Design.
