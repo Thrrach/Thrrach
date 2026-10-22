@@ -12,10 +12,10 @@
   &nbsp;
   <img src="./icons/skills/react-colored.svg" width="30" height="30" alt="React" title="React" />
   &nbsp;
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./icons/skills/nextjs-dark.svg" />
     <img src="./icons/skills/nextjs.svg" width="30" height="30" alt="Next.js" title="Next.js" />
-  </picture>
+  </picture> -->
   &nbsp;
   <img src="./icons/skills/nodejs-colored.svg" width="30" height="30" alt="Node.js" title="Node.js" />
   &nbsp;
@@ -28,7 +28,7 @@
 | --- | --- |
 | Languages | TypeScript, JavaScript |
 | Frontend | Next.js, React, Tailwind CSS, Ant Design |
-| Backend | Node.js, NestJS, REST APIs |
+| Backend | Node.js, REST APIs |
 | Data | PostgreSQL, Prisma, Redis |
 | Tools | Git, Docker |
 
