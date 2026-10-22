@@ -2,8 +2,6 @@
 
 **Full Stack Developer · Songkhla, Thailand**
 
-I build web applications with TypeScript, React, and Next.js, with Node.js and NestJS on the backend.
-My projects range from everyday tools to access management systems.
 
 [Email](mailto:dolapak.kong@gmail.com) · [Projects](https://github.com/Thrrach?tab=repositories)
 
@@ -34,7 +32,3 @@ My projects range from everyday tools to access management systems.
 | Data | PostgreSQL, Prisma, Redis |
 | Tools | Git, Docker |
 
-## Selected projects
-
-- **[PSU Timetable Builder](https://github.com/Thrrach/study-schedule)** — A class schedule planner with image export, calendar export, and local backups. Built with Next.js, TypeScript, Tailwind CSS, and Zustand.
-- **Zero Trust Networks** — An access management project with policy evaluation and audit logging. [Backend](https://github.com/Thrrach/backend-zero-trust-networks) uses NestJS, PostgreSQL, and Prisma; [frontend](https://github.com/Thrrach/frontend-zero-trust-networks) uses Next.js and Ant Design.
